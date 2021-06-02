@@ -6,7 +6,7 @@
 --- 
 I'm a DevOps Engineer, Cyber Security researcher, and OpenSource Contributor interested in using technology to solve meaningful problems. 
 Previously I have worked as a Software Developer, Data Scientist, and Data Engineer.
-When I am not getting paid to build solutions, I am building cyber-security tools for penetration testers.
+When I am not being paid to build solutions, I am building cyber-security tools for penetration testers.
 ---
 - 💬 Ask me about: Docker, Kubernetes, Linux, Automation, CI/CD pipelines, OSINT, and ML models in production.
 - 📫 How to reach me: [@Muoki_Caleb](https://twitter.com/Muoki_Caleb), [muokicaleb@tuta.io](muokicaleb@tuta.io)
