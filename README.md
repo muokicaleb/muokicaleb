@@ -6,7 +6,7 @@
 
 
 --- 
-✨ I'm a DevOps Engineer, Cyber Security researcher, and OpenSource Contributor interested in using technology to solve meaningful problems. 
+✨ I'm a DevOps Engineer, Cyber Security researcher, and OpenSource Contributor interested in solving meaningful problems using technology.  
 
 Previously I have worked as a Software Developer, Data Scientist, and Data Engineer.
 
