@@ -19,3 +19,7 @@ When I am not being paid to build solutions, I am building cyber-security tools 
 ---
 
 [![Muoki Caleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=muokicaleb&theme=nord&count_private=true&show_icons=true)](https://github.com/muokicaleb)
+
+
+---
+![snake gif](https://github.com/muokicaleb/muokicaleb/output/github-contribution-grid-snake.gif)
