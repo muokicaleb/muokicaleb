@@ -22,4 +22,4 @@ When I am not being paid to build solutions, I am building cyber-security tools 
 
 
 -
-![snake gif](https://github.com/muokicaleb/muokicaleb/blob/main/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/muokicaleb/muokicaleb/blob/output/github-contribution-grid-snake.gif)
