@@ -6,7 +6,7 @@
 <p align="left">
 - ✨ I'm a DevOps Engineer, and OpenSource Contributor interested in solving meaningful problems using technology.<br>
 - Previously I have worked as a Software Developer, Data Scientist, and Data Engineer.<br>
-- When I am not being paid to build solutions, I am building cyber-security tools for penetration testers.
+- When I am not being paid to build solutions, I am building cyber-security tools for penetration testers.<br>
 - You can ask me about anything. If I can help, I will.<br>
 
 </p>
@@ -171,7 +171,7 @@
 ## Contacts
 
 [LinkedIn: https://www.linkedin.com/in/muokicaleb](https://www.linkedin.com/in/muokicaleb) <br>
-[Email: muokicaleb@tuta.io](muokicaleb@tuta.io)<br>
-[Twitter: https://twitter.com/muoki_caleb](https://twitter.com/muoki_caleb) <br>
+[Email:    muokicaleb@tuta.io](muokicaleb@tuta.io)<br>
+[Twitter:  https://twitter.com/muoki_caleb](https://twitter.com/muoki_caleb) <br>
 
 - ![snake gif](https://github.com/muokicaleb/muokicaleb/blob/output/github-contribution-grid-snake.gif)
