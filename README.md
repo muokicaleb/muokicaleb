@@ -169,7 +169,8 @@
 
 ## Contacts
 
-[linkedin]: https://www.linkedin.com/in/muokicaleb "LinkedIn"
-[twitter]: https://twitter.com/muoki_caleb "Twitter"
+[LinkedIn](https://www.linkedin.com/in/muokicaleb)
+[Email: muokicaleb@tuta.io](muokicaleb@tuta.io)
+[Twitter](https://twitter.com/muoki_caleb)
 
 - ![snake gif](https://github.com/muokicaleb/muokicaleb/blob/output/github-contribution-grid-snake.gif)
