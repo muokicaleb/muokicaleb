@@ -171,5 +171,4 @@
 [Email: muokicaleb@tuta.io](muokicaleb@tuta.io)<br>
 [Twitter: https://twitter.com/muoki_caleb](https://twitter.com/muoki_caleb) <br>
 
-![muoki's github activity graph](https://github.com/muokicaleb/muokicaleb/blob/output/github-contribution-grid-snake.gif)
-https://activity-graph.herokuapp.com/graph?username=muokicaleb&theme=react-dark)](https://github.com/muokicaleb)
+![muoki's github activity graph](https://activity-graph.herokuapp.com/graph?username=muokicaleb&theme=react-dark)](https://github.com/muokicaleb)
