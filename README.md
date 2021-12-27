@@ -3,12 +3,13 @@
 <a href="#gitstats">
   <img src="https://github-readme-stats.vercel.app/api?username=muokicaleb&theme=nord&count_private=true&show_icons=true" alt="Muoki Caleb's GitHub stats" align="right" />
 </a>
-
+<p align="left">
 - ✨ I'm a DevOps Engineer, and OpenSource Contributor interested in solving meaningful problems using technology.
 - Previously I have worked as a Software Developer, Data Scientist, and Data Engineer.
 - When I am not being paid to build solutions, I am building cyber-security tools for penetration testers.
-- 💬 Ask me about: Docker, Kubernetes, Linux, Automation, CI/CD pipelines, OSINT, and ML models in production.
-- 📫 How to reach me: [muokicaleb@tuta.io](muokicaleb@tuta.io)
+- You can ask me about anything. If I can help, I will.
+
+</p>
   <br>
 
 <h2 align="left" id="muoki-tech">Favorite Tech</h2>
