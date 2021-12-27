@@ -1,4 +1,4 @@
-<h1 align="left">:wave: Hi there! I'm Muoki</h1>
+<h1 align="center">:wave: Hi there! I'm Muoki</h1>
 
 <a href="#gitstats">
   <img src="https://github-readme-stats.vercel.app/api?username=muokicaleb&theme=nord&count_private=true&show_icons=true" alt="Muoki Caleb's GitHub stats" align="right" />
